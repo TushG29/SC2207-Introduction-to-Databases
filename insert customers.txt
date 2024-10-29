@@ -1,0 +1,12 @@
+INSERT INTO CUSTOMERS(CID, NAME)
+VALUES	
+	(1,'Bob Bobob'),
+	(2,'Mario McLuigi'),
+        (3,'Pikachoo'),
+        (4,'Gardenia McFree'),
+        (5,'Laif B. Oy'),
+        (6,'Nendus Shiken'),
+        (7,'Skee Pee P.B.'),
+        (8,'Tayol Pin'),
+        (9,'Colby Cee');
+

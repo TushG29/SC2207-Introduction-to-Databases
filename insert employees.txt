@@ -1,0 +1,6 @@
+INSERT INTO EMPLOYEES(EID, EMPLOYEE_NAME, EMPLOYEE_SALARY)
+VALUES
+	(1, 'Sent Sodeen', 3000),
+        (2, 'Tien Tien ChixRice', 2100),
+        (3, 'Deel Maneater', 4100),
+        (4, 'Seem Sang', 1240);

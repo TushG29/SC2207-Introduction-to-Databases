@@ -1,0 +1,38 @@
+INSERT INTO PUBLICATION(Pub_ID, Publisher, Year)
+VALUES
+	(1,'Penguin',2010),
+	(2,'Oxford Publishing',2011),
+	(3,'Puffin',2009),
+	(4,'Nanyang Publisher Company',2015),
+	(5,'Nanyang Publisher Company',2020),
+	(6,'Oxford',2021),
+	(7,'Vogue',2010),
+	(8,'Vogue',2010),
+	(9,'Entertainment',2011),
+	(10,'Entertainment',2011),
+	(11,'Nanyang Publisher Company',2023),
+	(12, 'Rich Books Co', 2023),
+	(13, 'Rich Books Co', 2023);
+
+INSERT INTO BOOKS(Pub_ID, Title)
+VALUES
+	(1,'Harry Porter Finale'),
+	(2,'BFG'),
+	(3,'Matilda'),
+	(4,'SC2207 PYPs'),
+        (5,'MDP for Dummies'),
+	(6,'Norwegian Wood'),
+	(12, 'Made of Gold'),
+	(13, 'Made of Gold - the Sequel');
+
+                 
+INSERT INTO MAGAZINES(Pub_ID, Issue, Title)
+VALUES
+	(7,1, 'Vogue Issue 1'),
+	(8,2, 'Vogue Issue 2'),
+	(9,2, 'E Weekly Issue 1'),
+	(10,2, 'E Weekly Issue 2'),
+	(11,3, 'ML04 Latest Scam Issue 3');
+	
+            
+

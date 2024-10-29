@@ -1,0 +1,15 @@
+INSERT INTO COMPLAINTS(ID, Filed_date_time, Text, CID)
+VALUES
+	(1,'2022-07-12','Harry Potter is a bad franchise',1),
+        (2,'2022-07-24','Bookstore 1 sucks!',1),
+        (3,'2022-07-28','WOW, my Vogue 1 came with anthrax!',1),
+        (4,'2022-07-30','My copy of BFG turned into gold!',2),
+        (5,'2022-08-01','Bookstore 3 sucks!',2),
+        (6,'2022-08-30','My E Weekly Issue 1 melted in the mail',2),
+        (7,'2022-08-30','My copy of BFG turned into gold!',2),
+        (8,'2022-09-10','Bookshop 2 made my wallet turn into a witch',4),
+	(9,'2022-09-15','After reading Matilda, my daughter started having telekinesis powers!',6),
+	(10, '2022-09-29', 'Bookshop 1 had a loose Quidditch!', 4),
+	(11, '2022-10-10', 'The books in Bookshop 3 were made of gold and cost way too much', 6),
+	(12, '2022-10-11', 'Bookstore 1 sucks!', 1);
+	 
